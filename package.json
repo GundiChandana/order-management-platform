@@ -1,0 +1,23 @@
+{
+  "name": "order-management-platform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^22.20.2",
+    "nodemon": "^3.1.14",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
